@@ -1,0 +1,273 @@
+[
+    {
+        "authors": [
+            "Ras, G",
+            "Ambrogioni, L",
+            "Güçlü, U",
+            "van Gerven, M"
+        ],
+        "year": "2019",
+        "title": "Temporal factorization of 3D convolutional kernels",
+        "conference": "Benelux Conference on Machine Learning",
+        "url": "http://ceur-ws.org/Vol-2491/short106.pdf",
+        "notes": ""
+    },
+    {
+        "authors": [
+            "Bokkers, L",
+            "Ambrogioni, L",
+            "Güçlü, U"
+        ],
+        "year": "2019",
+        "title": "Segmentation of photovoltaic panels in aerial photography using group equivariant FCNs",
+        "conference": "Benelux Conference on Machine Learning",
+        "url": "http://ceur-ws.org/Vol-2491/paper105.pdf",
+        "notes": ""
+    },
+    {
+        "authors": [
+            "Ambrogioni, L",
+            "Güçlü, U",
+            "Berezutskaya, J",
+            "van den Borne, E",
+            "Güçlütürk, Y",
+            "Hinne, M",
+            "Maris, E",
+            "van Gerven, M"
+        ],
+        "year": "2019",
+        "title": "Forward amortized inference for likelihood-free variational marginalization",
+        "conference": "International Conference on Artificial Intelligence and Statistics",
+        "url": "http://proceedings.mlr.press/v89/ambrogioni19a/ambrogioni19a.pdf",
+        "notes": ""
+    },
+    {
+        "authors": [
+            "Ambrogioni, L",
+            "Ebel, P",
+            "Hinne, M",
+            "Güçlü, U",
+            "van Gerven, M",
+            "Maris, E"
+        ],
+        "year": "2019",
+        "title": "SpikeCaKe: Semi-analytic nonparametric Bayesian inference for spike-spike neuronal connectivity",
+        "conference": "International Conference on Artificial Intelligence and Statistics",
+        "url": "http://proceedings.mlr.press/v89/ambrogioni19b/ambrogioni19b.pdf",
+        "notes": ""
+    },
+    {
+        "authors": [
+            "Ambrogioni, L*",
+            "Güçlü, U*",
+            "Güçlütürk, Y",
+            "Hinne, M",
+            "van Gerven, M",
+            "Maris, E"
+        ],
+        "year": "2018",
+        "title": "Wasserstein variational inference",
+        "conference": "Neural Information Processing Systems",
+        "url": "https://papers.nips.cc/paper/7514-wasserstein-variational-inference",
+        "notes": "equal contribution"
+    },
+    {
+        "authors": [
+            "Güçlütürk, Y*",
+            "Güçlü, U*",
+            "Seeliger, K",
+            "Bosch, S",
+            "van Lier, R",
+            "van Gerven, M"
+        ],
+        "year": "2017",
+        "title": "Reconstructing perceived faces from brain activations with deep adversarial neural decoding",
+        "conference": "Neural Information Processing Systems",
+        "url": "https://papers.nips.cc/paper/7012-reconstructing-perceived-faces-from-brain-activations-with-deep-adversarial-neural-decoding",
+        "notes": "equal contribution; best poster award by Donders Institute for Brain, Cognition and Behaviour"
+    },
+    {
+        "authors": [
+            "Ambrogioni, L",
+            "Berezutskaya, J",
+            "Güçlü, U",
+            "van den Borne, E",
+            "Güçlütürk, Y",
+            "van Gerven, M",
+            "Maris, E"
+        ],
+        "year": "2017",
+        "title": "Bayesian model ensembling using meta-trained recurrent neural networks",
+        "conference": "Neural Information Processing Systems Workshops",
+        "url": "http://metalearning.ml/2017/papers/metalearn17_ambrogioni.pdf",
+        "notes": ""
+    },
+    {
+        "authors": [
+            "Güçlü, U",
+            "Güçlütürk, Y",
+            "Ambrogioni, L",
+            "Maris, E",
+            "van Lier, R",
+            "van Gerven, M"
+        ],
+        "year": "2017",
+        "title": "Algorithmic composition of polyphonic music with the WaveCRF",
+        "conference": "Neural Information Processing Systems Workshops",
+        "url": "https://nips2017creativity.github.io/doc/WaveCRF.pdf",
+        "notes": ""
+    },
+    {
+        "authors": [
+            "Güçlütürk, Y",
+            "Güçlü, U",
+            "Pérez, M",
+            "Escalante, H",
+            "Baró, X",
+            "Guyon, I",
+            "Andujar, C",
+            "Jacques Junior, J",
+            "Madadi, M",
+            "Escalera, S",
+            "van Gerven, M",
+            "van Lier, R"
+        ],
+        "year": "2017",
+        "title": "Visualizing apparent personality analysis with deep residual networks",
+        "conference": "International Conference on Computer Vision Workshops",
+        "url": "https://doi.org/10.1109/ICCVW.2017.367",
+        "notes": ""
+    },
+    {
+        "authors": [
+            "Berezutskaya, J",
+            "Freudenburg, Z",
+            "Ramsey, N",
+            "Güçlü, U",
+            "van Gerven, M"
+        ],
+        "year": "2017",
+        "title": "Modeling brain responses to perceived speech with LSTM networks",
+        "conference": "Benelux Conference on Machine Learning",
+        "url": "https://pure.tue.nl/ws/files/72619856/benelearn_2017.pdf#page=150",
+        "notes": ""
+    },
+    {
+        "authors": [
+            "Escalante, H",
+            "Guyon, I",
+            "Escalera, S",
+            "Jacques Junior, J",
+            "Madadi, M",
+            "Baró, X",
+            "Ayache, S",
+            "Viegas, E",
+            "Güçlütürk, Y",
+            "Güçlü, U",
+            "van Gerven, M",
+            "van Lier, R"
+        ],
+        "year": "2017",
+        "title": "Design of an explainable machine learning challenge for video interviews",
+        "conference": "International Joint Conference on Neural Networks",
+        "url": "https://doi.org/10.1109/IJCNN.2017.7966320",
+        "notes": ""
+    },
+    {
+        "authors": [
+            "Güçlü, U",
+            "Thielen, J",
+            "Hanke, M",
+            "van Gerven, M"
+        ],
+        "year": "2016",
+        "title": "Brains on beats",
+        "conference": "Neural Information Processing Systems",
+        "url": "https://papers.nips.cc/paper/6222-brains-on-beats",
+        "notes": ""
+    },
+    {
+        "authors": [
+            "Güçlütürk, Y*",
+            "Güçlü, U*",
+            "van Lier, R",
+            "van Gerven, M"
+        ],
+        "year": "2016",
+        "title": "Convolutional sketch inversion",
+        "conference": "European Conference on Computer Vision Workshops",
+        "url": "https://doi.org/10.1007/978-3-319-46604-0_56",
+        "notes": "equal contributio"
+    },
+    {
+        "authors": [
+            "Güçlütürk, Y",
+            "Güçlü, U",
+            "van Gerven, M",
+            "van Lier, R"
+        ],
+        "year": "2016",
+        "title": "Deep impression: Audiovisual deep residual networks for multimodal apparent personality trait recognition",
+        "conference": "European Conference on Computer Vision Workshops",
+        "url": "https://doi.org/10.1007/978-3-319-49409-8_28",
+        "notes": ""
+    },
+    {
+        "authors": [
+            "Güçlü, U",
+            "van Gerven, M"
+        ],
+        "year": "2015",
+        "title": "Semantic vector space models predict neural responses to complex visual stimuli",
+        "conference": "Neural Information Processing Systems Workshops",
+        "url": "https://arxiv.org/abs/1510.04738",
+        "notes": ""
+    },
+    {
+        "authors": [
+            "Güçlü, U",
+            "van Gerven, M"
+        ],
+        "year": "2013",
+        "title": "Unsupervised learning of features for Bayesian decoding in functional magnetic resonance imaging",
+        "conference": "Benelux Conference on Machine Learning",
+        "url": "http://benelearn2013.org/pdfs/paper_27.pdf",
+        "notes": ""
+    },
+    {
+        "authors": [
+            "Güçlü, U",
+            "Güçlütürk, Y",
+            "Loo, C"
+        ],
+        "year": "2011",
+        "title": "Evaluation of fractal dimension estimation methods for feature extraction in motor imagery based brain computer interface",
+        "conference": "Procedia Computer Science, 3(Supplement C), 589-59",
+        "url": "https://doi.org/10.1016/j.procs.2010.12.098",
+        "notes": ""
+    },
+    {
+        "authors": [
+            "Güçlütürk, Y",
+            "Güçlü, U",
+            "Samraj, A"
+        ],
+        "year": "2010",
+        "title": "An online single trial analysis of the P300 event related potential for the disabled",
+        "conference": "Convention of Electrical & Electronics Engineers in Israel",
+        "url": "https://doi.org/10.1109/EEEI.2010.5662211",
+        "notes": ""
+    },
+    {
+        "authors": [
+            "Güçlü, U",
+            "Güçlütürk, Y",
+            "Samraj, A"
+        ],
+        "year": "2010",
+        "title": "A novel approach to improve the performance of the P300 speller paradigm",
+        "conference": "International Conference on Systems, Man and Cybernetics",
+        "url": "https://doi.org/10.1109/ICSMC.2010.5641814",
+        "notes": ""
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "authors": [
+            "van Gerven, M",
+            "Seeliger, K",
+            "Güçlü, U",
+            "Güçlütürk, Y"
+        ],
+        "year": "2019",
+        "title": "Current advances in neural decoding",
+        "chapter": "Samek, W., Montavon, G., Vedaldi, A., Hansen, L., & Müller, K. (Eds.)., Explainable AI: Interpreting, explaining and visualizing deep learning (pp. 379-394). Berlin/Heidelberg, Germany: Springer Science+Business Media",
+        "url": "https://doi.org/10.1007/978-3-030-28954-6",
+        "notes": ""
+    },
+    {
+        "authors": [
+            "Güçlü, U",
+            "van Gerven, M"
+        ],
+        "year": "2017",
+        "title": "Probing human brain function with artificial neural networks",
+        "chapter": "A. Moustafa (Ed.)., Computational Models of Brain and Behavior (pp. 413-423). Hoboken, NJ: Wiley-Blackwell",
+        "url": "https://doi.org/10.1002/9781119159193.ch30",
+        "notes": ""
+    }
+]
