@@ -1,197 +1,199 @@
-[
-    {
-        "authors": [
-            "Escalera, S",
-            "Escalante, H",
-            "Baró, X",
-            "Guyon, I",
-            "Madadi, M",
-            "Wan, J",
-            "Ayache, S",
-            "Güçlütürk, Y",
-            "Güçlü, U"
-        ],
-        "year": "2020",
-        "title": "Guest editorial: Image and video inpainting and denoising",
-        "journal": "IEEE Transactions on Pattern Recognition and Machine Intelligence, 42(5), 1021-1024",
-        "url": "https://doi.org/10.1109/TPAMI.2020.2971291",
-        "notes": ""
-    },
-    {
-        "authors": [
-            "Escalante, H",
-            "Kaya, H",
-            "Salah, A",
-            "Escalera, S",
-            "Güçlütürk, Y",
-            "Güçlü, U",
-            "Baró, X",
-            "Guyon, I",
-            "Junior, J",
-            "Madadi, M",
-            "Ayache, S",
-            "Viegas, E",
-            "Gürpınar, F",
-            "Wicaksana, A",
-            "Liem, C",
-            "van Gerven, M",
-            "van Lier, R"
-        ],
-        "year": "2020",
-        "title": "Modeling, recognizing, and explaining apparent personality from videos",
-        "journal": "IEEE Transactions on Affective Computing",
-        "url": "https://doi.org/10.1109/TAFFC.2020.2973984",
-        "notes": ""
-    },
-    {
-        "authors": [
-            "Jacques Junior, J",
-            "Güçlütürk, Y",
-            "Pérez, M",
-            "Güçlü, U",
-            "Andujar, C",
-            "Baró, X",
-            "Escalante, H",
-            "Guyon, I",
-            "van Gerven, M",
-            "van Lier, R",
-            "Escalera, S"
-        ],
-        "year": "2019",
-        "title": "First Impressions: A survey on computer vision-based apparent personality trait analysis",
-        "journal": "IEEE Transactions on Affective Computing",
-        "url": "https://doi.org/10.1109/TAFFC.2019.2930058",
-        "notes": ""
-    },
-    {
-        "authors": [
-            "Seeliger, K",
-            "Güçlü, U",
-            "Ambrogioni, L",
-            "Güçlütürk, Y",
-            "van Gerven, M"
-        ],
-        "year": "2018",
-        "title": "Generative adversarial networks for reconstructing natural images from brain activity",
-        "journal": "NeuroImage, 181, 775-785",
-        "url": "https://doi.org/10.1016/j.neuroimage.2018.07.043",
-        "notes": ""
-    },
-    {
-        "authors": [
-            "Güçlütürk, Y",
-            "Güçlü, U",
-            "van Gerven, M",
-            "van Lier, R"
-        ],
-        "year": "2018",
-        "title": "Representations of naturalistic stimulus complexity in early and associative visual and auditory cortices",
-        "journal": "Scientific Reports, 8, 3439",
-        "url": "https://doi.org/10.1038/s41598-018-21636-y",
-        "notes": ""
-    },
-    {
-        "authors": [
-            "Güçlütürk, Y",
-            "Güçlü, U",
-            "Baró, X",
-            "Escalante, H",
-            "Guyon, I",
-            "Escalera, S",
-            "van Gerven, M",
-            "van Lier, R"
-        ],
-        "year": "2017",
-        "title": "Multimodal first impression analysis with deep residual networks",
-        "journal": "IEEE Transactions on Affective Computing, 9(3), 316-329",
-        "url": "https://doi.org/10.1109/TAFFC.2017.2751469",
-        "notes": ""
-    },
-    {
-        "authors": [
-            "Berezutskaya, J",
-            "Freudenburg, Z",
-            "Güçlü, U",
-            "van Gerven, M",
-            "Ramsey, N"
-        ],
-        "year": "2017",
-        "title": "Neural tuning to low-level features of speech throughout the perisylvian cortex",
-        "journal": "The Journal of Neuroscience, 37(33), 7906-7920",
-        "url": "https://doi.org/10.1523/JNEUROSCI.0238-17.2017",
-        "notes": ""
-    },
-    {
-        "authors": [
-            "Seeliger, K",
-            "Fritsche, M",
-            "Güçlü, U",
-            "Schoenmakers, S",
-            "Schoffelen, J",
-            "Bosch, S",
-            "van Gerven, M"
-        ],
-        "year": "2017",
-        "title": "Convolutional neural network-based encoding and decoding of visual object recognition in space and time",
-        "journal": "NeuroImage, 180(Part A), 253-266",
-        "url": "https://doi.org/10.1016/j.neuroimage.2017.07.018",
-        "notes": ""
-    },
-    {
-        "authors": [
-            "Güçlü, U",
-            "van Gerven, M"
-        ],
-        "year": "2017",
-        "title": "Modeling the dynamics of human brain activity with recurrent neural networks",
-        "journal": "Frontiers in Computational Neuroscience, 11, 7",
-        "url": "https://doi.org/10.3389%2Ffncom.2017.00007",
-        "notes": ""
-    },
-    {
-        "authors": [
-            "Güçlü, U",
-            "van Gerven, M"
-        ],
-        "year": "2015",
-        "title": "Increasingly complex representations of natural movies across the dorsal stream are shared between subjects",
-        "journal": "NeuroImage, 145(Part B), 329-336",
-        "url": "https://doi.org/10.1016/j.neuroimage.2015.12.036",
-        "notes": ""
-    },
-    {
-        "authors": [
-            "Güçlü, U",
-            "van Gerven, M"
-        ],
-        "year": "2015",
-        "title": "Deep neural networks reveal a gradient in the complexity of neural representations across the ventral stream",
-        "journal": "The Journal of Neuroscience, 35(27), 10005-10014",
-        "url": "https://doi.org/10.1523/JNEUROSCI.5023-14.2015",
-        "notes": ""
-    },
-    {
-        "authors": [
-            "Schoenmakers, S",
-            "Güçlü, U",
-            "van Gerven, M",
-            "Heskes, T"
-        ],
-        "year": "2015",
-        "title": "Gaussian mixture models and semantic gating improve reconstructions from human brain activity",
-        "journal": "Frontiers in Computational Neuroscience, 8, 173",
-        "url": "https://doi.org/10.3389%2Ffncom.2014.00173",
-        "notes": ""
-    },
-    {
-        "authors": [
-            "Güçlü, U",
-            "van Gerven, M"
-        ],
-        "year": "2014",
-        "title": "Unsupervised feature learning improves prediction of human brain activity in response to natural images",
-        "journal": "PLOS Computational Biology, 10(8), e1003724. (best thesis award by Radboud University; best poster award by Donders Institute for Brain, Cognition and Behaviour",
-        "url": "https://doi.org/10.1371/journal.pcbi.1003724",
-        "notes": ""
-    }
-]
+{
+    "journals": [
+        {
+            "authors": [
+                "Escalera, S",
+                "Escalante, H",
+                "Baró, X",
+                "Guyon, I",
+                "Madadi, M",
+                "Wan, J",
+                "Ayache, S",
+                "Güçlütürk, Y",
+                "Güçlü, U"
+            ],
+            "year": "2020",
+            "title": "Guest editorial: Image and video inpainting and denoising",
+            "journal": "IEEE Transactions on Pattern Recognition and Machine Intelligence, 42(5), 1021-1024",
+            "url": "https://doi.org/10.1109/TPAMI.2020.2971291",
+            "notes": ""
+        },
+        {
+            "authors": [
+                "Escalante, H",
+                "Kaya, H",
+                "Salah, A",
+                "Escalera, S",
+                "Güçlütürk, Y",
+                "Güçlü, U",
+                "Baró, X",
+                "Guyon, I",
+                "Junior, J",
+                "Madadi, M",
+                "Ayache, S",
+                "Viegas, E",
+                "Gürpınar, F",
+                "Wicaksana, A",
+                "Liem, C",
+                "van Gerven, M",
+                "van Lier, R"
+            ],
+            "year": "2020",
+            "title": "Modeling, recognizing, and explaining apparent personality from videos",
+            "journal": "IEEE Transactions on Affective Computing",
+            "url": "https://doi.org/10.1109/TAFFC.2020.2973984",
+            "notes": ""
+        },
+        {
+            "authors": [
+                "Jacques Junior, J",
+                "Güçlütürk, Y",
+                "Pérez, M",
+                "Güçlü, U",
+                "Andujar, C",
+                "Baró, X",
+                "Escalante, H",
+                "Guyon, I",
+                "van Gerven, M",
+                "van Lier, R",
+                "Escalera, S"
+            ],
+            "year": "2019",
+            "title": "First Impressions: A survey on computer vision-based apparent personality trait analysis",
+            "journal": "IEEE Transactions on Affective Computing",
+            "url": "https://doi.org/10.1109/TAFFC.2019.2930058",
+            "notes": ""
+        },
+        {
+            "authors": [
+                "Seeliger, K",
+                "Güçlü, U",
+                "Ambrogioni, L",
+                "Güçlütürk, Y",
+                "van Gerven, M"
+            ],
+            "year": "2018",
+            "title": "Generative adversarial networks for reconstructing natural images from brain activity",
+            "journal": "NeuroImage, 181, 775-785",
+            "url": "https://doi.org/10.1016/j.neuroimage.2018.07.043",
+            "notes": ""
+        },
+        {
+            "authors": [
+                "Güçlütürk, Y",
+                "Güçlü, U",
+                "van Gerven, M",
+                "van Lier, R"
+            ],
+            "year": "2018",
+            "title": "Representations of naturalistic stimulus complexity in early and associative visual and auditory cortices",
+            "journal": "Scientific Reports, 8, 3439",
+            "url": "https://doi.org/10.1038/s41598-018-21636-y",
+            "notes": ""
+        },
+        {
+            "authors": [
+                "Güçlütürk, Y",
+                "Güçlü, U",
+                "Baró, X",
+                "Escalante, H",
+                "Guyon, I",
+                "Escalera, S",
+                "van Gerven, M",
+                "van Lier, R"
+            ],
+            "year": "2017",
+            "title": "Multimodal first impression analysis with deep residual networks",
+            "journal": "IEEE Transactions on Affective Computing, 9(3), 316-329",
+            "url": "https://doi.org/10.1109/TAFFC.2017.2751469",
+            "notes": ""
+        },
+        {
+            "authors": [
+                "Berezutskaya, J",
+                "Freudenburg, Z",
+                "Güçlü, U",
+                "van Gerven, M",
+                "Ramsey, N"
+            ],
+            "year": "2017",
+            "title": "Neural tuning to low-level features of speech throughout the perisylvian cortex",
+            "journal": "The Journal of Neuroscience, 37(33), 7906-7920",
+            "url": "https://doi.org/10.1523/JNEUROSCI.0238-17.2017",
+            "notes": ""
+        },
+        {
+            "authors": [
+                "Seeliger, K",
+                "Fritsche, M",
+                "Güçlü, U",
+                "Schoenmakers, S",
+                "Schoffelen, J",
+                "Bosch, S",
+                "van Gerven, M"
+            ],
+            "year": "2017",
+            "title": "Convolutional neural network-based encoding and decoding of visual object recognition in space and time",
+            "journal": "NeuroImage, 180(Part A), 253-266",
+            "url": "https://doi.org/10.1016/j.neuroimage.2017.07.018",
+            "notes": ""
+        },
+        {
+            "authors": [
+                "Güçlü, U",
+                "van Gerven, M"
+            ],
+            "year": "2017",
+            "title": "Modeling the dynamics of human brain activity with recurrent neural networks",
+            "journal": "Frontiers in Computational Neuroscience, 11, 7",
+            "url": "https://doi.org/10.3389%2Ffncom.2017.00007",
+            "notes": ""
+        },
+        {
+            "authors": [
+                "Güçlü, U",
+                "van Gerven, M"
+            ],
+            "year": "2015",
+            "title": "Increasingly complex representations of natural movies across the dorsal stream are shared between subjects",
+            "journal": "NeuroImage, 145(Part B), 329-336",
+            "url": "https://doi.org/10.1016/j.neuroimage.2015.12.036",
+            "notes": ""
+        },
+        {
+            "authors": [
+                "Güçlü, U",
+                "van Gerven, M"
+            ],
+            "year": "2015",
+            "title": "Deep neural networks reveal a gradient in the complexity of neural representations across the ventral stream",
+            "journal": "The Journal of Neuroscience, 35(27), 10005-10014",
+            "url": "https://doi.org/10.1523/JNEUROSCI.5023-14.2015",
+            "notes": ""
+        },
+        {
+            "authors": [
+                "Schoenmakers, S",
+                "Güçlü, U",
+                "van Gerven, M",
+                "Heskes, T"
+            ],
+            "year": "2015",
+            "title": "Gaussian mixture models and semantic gating improve reconstructions from human brain activity",
+            "journal": "Frontiers in Computational Neuroscience, 8, 173",
+            "url": "https://doi.org/10.3389%2Ffncom.2014.00173",
+            "notes": ""
+        },
+        {
+            "authors": [
+                "Güçlü, U",
+                "van Gerven, M"
+            ],
+            "year": "2014",
+            "title": "Unsupervised feature learning improves prediction of human brain activity in response to natural images",
+            "journal": "PLOS Computational Biology, 10(8), e1003724. (best thesis award by Radboud University; best poster award by Donders Institute for Brain, Cognition and Behaviour",
+            "url": "https://doi.org/10.1371/journal.pcbi.1003724",
+            "notes": ""
+        }
+    ]
+}

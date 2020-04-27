@@ -1,33 +1,35 @@
-[
-    {
-        "authors": [
-            "Escalera, S",
-            "Ayache, S",
-            "Wan, J",
-            "Madadi, M",
-            "Güçlü, U",
-            "Baró, X"
-        ],
-        "year": "2019",
-        "title": "Inpainting and Denoising Challenges",
-        "book": "Berlin/Heidelberg, Germany: Springer Science+Business Media",
-        "url": "https://doi.org/10.1007/978-3-030-25614-2",
-        "notes": ""
-    },
-    {
-        "authors": [
-            "Escalante, H",
-            "Escalera, S",
-            "Guyon, I",
-            "Baró, X",
-            "Güçlütürk, Y",
-            "Güçlü, U",
-            "van Gerven, M"
-        ],
-        "year": "2018",
-        "title": "Explainable and interpretable models in computer vision and machine learning",
-        "book": "Berlin/Heidelberg, Germany: Springer Science+Business Media",
-        "url": "https://doi.org/10.1007/978-3-319-98131-4",
-        "notes": ""
-    }
-]
+{
+    "books": [
+        {
+            "authors": [
+                "Escalera, S",
+                "Ayache, S",
+                "Wan, J",
+                "Madadi, M",
+                "Güçlü, U",
+                "Baró, X"
+            ],
+            "year": "2019",
+            "title": "Inpainting and Denoising Challenges",
+            "book": "Berlin/Heidelberg, Germany: Springer Science+Business Media",
+            "url": "https://doi.org/10.1007/978-3-030-25614-2",
+            "notes": ""
+        },
+        {
+            "authors": [
+                "Escalante, H",
+                "Escalera, S",
+                "Guyon, I",
+                "Baró, X",
+                "Güçlütürk, Y",
+                "Güçlü, U",
+                "van Gerven, M"
+            ],
+            "year": "2018",
+            "title": "Explainable and interpretable models in computer vision and machine learning",
+            "book": "Berlin/Heidelberg, Germany: Springer Science+Business Media",
+            "url": "https://doi.org/10.1007/978-3-319-98131-4",
+            "notes": ""
+        }
+    ]
+}

@@ -1,156 +1,158 @@
-[
-    {
-        "authors": [
-            "Dallaire, P",
-            "Ambrogioni, L",
-            "Trottier, L",
-            "Güçlü, U",
-            "Hinne, M",
-            "Giguère, P",
-            "Chaib-Draa, B",
-            "van Gerven, M",
-            "Laviolette, F"
-        ],
-        "year": "2029",
-        "title": "The Indian chefs process",
-        "preprint": "arXiv preprint arXiv:2001.10657 [cs.LG]",
-        "url": "https://arxiv.org/abs/2001.10657",
-        "notes": ""
-    },
-    {
-        "authors": [
-            "Ras, G",
-            "Dotsch, R",
-            "Ambrogioni, L",
-            "Güçlü, U",
-            "van Gerven, M"
-        ],
-        "year": "2019",
-        "title": "Background hardly matters: Understanding personality attribution in deep residual networks",
-        "preprint": "arXiv preprint arXiv:1912.09831 [cs.LG]",
-        "url": "https://arxiv.org/abs/1912.09831",
-        "notes": ""
-    },
-    {
-        "authors": [
-            "Thielen, J*",
-            "Güçlü, U*",
-            "Güçlütürk, Y",
-            "Ambrogioni, L",
-            "Bosch, S",
-            "van Gerven, M"
-        ],
-        "year": "2019",
-        "title": "DeepRF: Ultrafast population receptive field mapping with deep learning",
-        "preprint": "bioRxiv, 732990",
-        "url": "https://doi.org/10.1101/732990",
-        "notes": "equal contribution"
-    },
-    {
-        "authors": [
-            "Ambrogioni, L",
-            "Güçlü, U",
-            "van Gerven, M"
-        ],
-        "year": "2019",
-        "title": "k-GANs: Ensemble of generative models with semi-discrete optimal transport",
-        "preprint": "arXiv preprint arXiv:1907.04050 [stat.ML]",
-        "url": "https://arxiv.org/abs/1907.04050",
-        "notes": ""
-    },
-    {
-        "authors": [
-            "Seeliger, K",
-            "Ambrogioni, L",
-            "Güçlü, U",
-            "van Gerven, M"
-        ],
-        "year": "2019",
-        "title": "A large single-participant fMRI dataset for probing brain responses to naturalistic stimuli in space and time",
-        "preprint": "bioRxiv, 68768",
-        "url": "https://doi.org/10.1101/687681",
-        "notes": ""
-    },
-    {
-        "authors": [
-            "Geerligs, L",
-            "van Gerven, M",
-            "Campbell, K",
-            "Güçlü, U"
-        ],
-        "year": "2019",
-        "title": "Timescales and functional organization of neural event segmentation in the human brain",
-        "preprint": "Zenodo",
-        "url": "https://doi.org/10.5281/zenodo.3276229",
-        "notes": ""
-    },
-    {
-        "authors": [
-            "Seeliger, K",
-            "Ambrogioni, L",
-            "Güçlü, U",
-            "van Gerven, M"
-        ],
-        "year": "2019",
-        "title": "End-to-end neural system identification with neural information flow",
-        "preprint": "bioRxiv, 55325",
-        "url": "https://doi.org/10.1101/553255",
-        "notes": ""
-    },
-    {
-        "authors": [
-            "Ambrogioni, L",
-            "Güçlü, U",
-            "Güçlütürk, Y",
-            "van Gerven, M"
-        ],
-        "year": "2018",
-        "title": "Wasserstein variational gradient descent: From semi-discrete optimal transport to ensemble variational inference",
-        "preprint": "arXiv preprint arXiv:1811.02827 [stat.ML]",
-        "url": "https://arxiv.org/abs/1811.02827",
-        "notes": ""
-    },
-    {
-        "authors": [
-            "Güçlü, U*",
-            "Güçlütürk, Y*",
-            "Madadi, M",
-            "Escalera, S",
-            "Baró, X",
-            "González, J",
-            "van Lier, R",
-            "van Gerven, M"
-        ],
-        "year": "2017",
-        "title": "End-to-end semantic face segmentation with conditional random fields as convolutional, recurrent and adversarial networks",
-        "preprint": "arXiv preprint arXiv:1703.03305 [cs.CV]",
-        "url": "https://arxiv.org/abs/1703.03305",
-        "notes": "equal contribution"
-    },
-    {
-        "authors": [
-            "Ambrogioni, L",
-            "Güçlü, U",
-            "Maris, E",
-            "van Gerven, M"
-        ],
-        "year": "2017",
-        "title": "Estimating nonlinear dynamics with the ConvNet smoother",
-        "preprint": "arXiv preprint arXiv:1702.05243 [stat.ML]",
-        "url": "https://arxiv.org/abs/1702.05243",
-        "notes": ""
-    },
-    {
-        "authors": [
-            "Ambrogioni, L",
-            "Güçlü, U",
-            "van Gerven, M",
-            "Maris, E"
-        ],
-        "year": "2017",
-        "title": "The kernel mixture network: A nonparametric method for conditional density estimation of continuous random variables",
-        "preprint": "arXiv preprint arXiv:1705.07111 [stat.ML]",
-        "url": "https://arxiv.org/abs/1705.07111",
-        "notes": ""
-    }
-]
+{
+    "preprints": [
+        {
+            "authors": [
+                "Dallaire, P",
+                "Ambrogioni, L",
+                "Trottier, L",
+                "Güçlü, U",
+                "Hinne, M",
+                "Giguère, P",
+                "Chaib-Draa, B",
+                "van Gerven, M",
+                "Laviolette, F"
+            ],
+            "year": "2029",
+            "title": "The Indian chefs process",
+            "preprint": "arXiv preprint arXiv:2001.10657 [cs.LG]",
+            "url": "https://arxiv.org/abs/2001.10657",
+            "notes": ""
+        },
+        {
+            "authors": [
+                "Ras, G",
+                "Dotsch, R",
+                "Ambrogioni, L",
+                "Güçlü, U",
+                "van Gerven, M"
+            ],
+            "year": "2019",
+            "title": "Background hardly matters: Understanding personality attribution in deep residual networks",
+            "preprint": "arXiv preprint arXiv:1912.09831 [cs.LG]",
+            "url": "https://arxiv.org/abs/1912.09831",
+            "notes": ""
+        },
+        {
+            "authors": [
+                "Thielen, J*",
+                "Güçlü, U*",
+                "Güçlütürk, Y",
+                "Ambrogioni, L",
+                "Bosch, S",
+                "van Gerven, M"
+            ],
+            "year": "2019",
+            "title": "DeepRF: Ultrafast population receptive field mapping with deep learning",
+            "preprint": "bioRxiv, 732990",
+            "url": "https://doi.org/10.1101/732990",
+            "notes": "equal contribution"
+        },
+        {
+            "authors": [
+                "Ambrogioni, L",
+                "Güçlü, U",
+                "van Gerven, M"
+            ],
+            "year": "2019",
+            "title": "k-GANs: Ensemble of generative models with semi-discrete optimal transport",
+            "preprint": "arXiv preprint arXiv:1907.04050 [stat.ML]",
+            "url": "https://arxiv.org/abs/1907.04050",
+            "notes": ""
+        },
+        {
+            "authors": [
+                "Seeliger, K",
+                "Ambrogioni, L",
+                "Güçlü, U",
+                "van Gerven, M"
+            ],
+            "year": "2019",
+            "title": "A large single-participant fMRI dataset for probing brain responses to naturalistic stimuli in space and time",
+            "preprint": "bioRxiv, 68768",
+            "url": "https://doi.org/10.1101/687681",
+            "notes": ""
+        },
+        {
+            "authors": [
+                "Geerligs, L",
+                "van Gerven, M",
+                "Campbell, K",
+                "Güçlü, U"
+            ],
+            "year": "2019",
+            "title": "Timescales and functional organization of neural event segmentation in the human brain",
+            "preprint": "Zenodo",
+            "url": "https://doi.org/10.5281/zenodo.3276229",
+            "notes": ""
+        },
+        {
+            "authors": [
+                "Seeliger, K",
+                "Ambrogioni, L",
+                "Güçlü, U",
+                "van Gerven, M"
+            ],
+            "year": "2019",
+            "title": "End-to-end neural system identification with neural information flow",
+            "preprint": "bioRxiv, 55325",
+            "url": "https://doi.org/10.1101/553255",
+            "notes": ""
+        },
+        {
+            "authors": [
+                "Ambrogioni, L",
+                "Güçlü, U",
+                "Güçlütürk, Y",
+                "van Gerven, M"
+            ],
+            "year": "2018",
+            "title": "Wasserstein variational gradient descent: From semi-discrete optimal transport to ensemble variational inference",
+            "preprint": "arXiv preprint arXiv:1811.02827 [stat.ML]",
+            "url": "https://arxiv.org/abs/1811.02827",
+            "notes": ""
+        },
+        {
+            "authors": [
+                "Güçlü, U*",
+                "Güçlütürk, Y*",
+                "Madadi, M",
+                "Escalera, S",
+                "Baró, X",
+                "González, J",
+                "van Lier, R",
+                "van Gerven, M"
+            ],
+            "year": "2017",
+            "title": "End-to-end semantic face segmentation with conditional random fields as convolutional, recurrent and adversarial networks",
+            "preprint": "arXiv preprint arXiv:1703.03305 [cs.CV]",
+            "url": "https://arxiv.org/abs/1703.03305",
+            "notes": "equal contribution"
+        },
+        {
+            "authors": [
+                "Ambrogioni, L",
+                "Güçlü, U",
+                "Maris, E",
+                "van Gerven, M"
+            ],
+            "year": "2017",
+            "title": "Estimating nonlinear dynamics with the ConvNet smoother",
+            "preprint": "arXiv preprint arXiv:1702.05243 [stat.ML]",
+            "url": "https://arxiv.org/abs/1702.05243",
+            "notes": ""
+        },
+        {
+            "authors": [
+                "Ambrogioni, L",
+                "Güçlü, U",
+                "van Gerven, M",
+                "Maris, E"
+            ],
+            "year": "2017",
+            "title": "The kernel mixture network: A nonparametric method for conditional density estimation of continuous random variables",
+            "preprint": "arXiv preprint arXiv:1705.07111 [stat.ML]",
+            "url": "https://arxiv.org/abs/1705.07111",
+            "notes": ""
+        }
+    ]
+}

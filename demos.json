@@ -1,37 +1,39 @@
-[
-    {
-        "authors": [
-            "Bollen, C",
-            "Güçlü, U",
-            "van Wezel, R",
-            "van Gerven, M",
-            "Güçlütürk, Y"
-        ],
-        "year": "2019",
-        "title": "Simulating neuroprosthetic vision for emotion recognition",
-        "demo": "International Conference on Affective Computing and Intelligent Interaction",
-        "url": "https://doi.org/10.1109/ACIIW.2019.8925229",
-        "notes": "best poster award by Donders Institute for Brain, Cognition and Behaviour"
-    },
-    {
-        "authors": [
-            "Escalera, S",
-            "Guyon, I",
-            "Chen, B",
-            "Quintana, M",
-            "Güçlü, U",
-            "Güçlütürk, Y",
-            "Baró, X",
-            "van Lier, R",
-            "Andujar, C",
-            "van Gerven, M",
-            "Boser, B",
-            "and Wang, L"
-        ],
-        "year": "2016",
-        "title": "Biometric applications of CNNs: Get a job at “Impending Technologies”!",
-        "demo": "Neural Information Processing Systems",
-        "url": "https://nips.cc/Conferences/2016/Schedule?showEvent=6314",
-        "notes": ""
-    }
-]
+{
+    "demos": [
+        {
+            "authors": [
+                "Bollen, C",
+                "Güçlü, U",
+                "van Wezel, R",
+                "van Gerven, M",
+                "Güçlütürk, Y"
+            ],
+            "year": "2019",
+            "title": "Simulating neuroprosthetic vision for emotion recognition",
+            "demo": "International Conference on Affective Computing and Intelligent Interaction",
+            "url": "https://doi.org/10.1109/ACIIW.2019.8925229",
+            "notes": "best poster award by Donders Institute for Brain, Cognition and Behaviour"
+        },
+        {
+            "authors": [
+                "Escalera, S",
+                "Guyon, I",
+                "Chen, B",
+                "Quintana, M",
+                "Güçlü, U",
+                "Güçlütürk, Y",
+                "Baró, X",
+                "van Lier, R",
+                "Andujar, C",
+                "van Gerven, M",
+                "Boser, B",
+                "and Wang, L"
+            ],
+            "year": "2016",
+            "title": "Biometric applications of CNNs: Get a job at “Impending Technologies”!",
+            "demo": "Neural Information Processing Systems",
+            "url": "https://nips.cc/Conferences/2016/Schedule?showEvent=6314",
+            "notes": ""
+        }
+    ]
+}
